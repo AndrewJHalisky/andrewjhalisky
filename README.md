@@ -18,6 +18,5 @@ I'm Andrew Halisky, a student at Brigham Young University-Idaho interested in we
 ## Let's Connect!
 
 - Here is my [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/andrew-halisky/)) profile
-- Here is my [![](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)]()(Your Twitter Profile Link) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
